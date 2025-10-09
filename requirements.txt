@@ -1,0 +1,12 @@
+
+gradio
+fastapi
+uvicorn
+
+groq
+elevenlabs
+python-dotenv
+
+
+speechrecognition
+pydub
