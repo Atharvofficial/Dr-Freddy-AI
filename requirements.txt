@@ -1,12 +1,15 @@
+# Vercel uses this file to install your Python dependencies
 
-gradio
+# Core app framework
+gradio==4.29.0
 fastapi
 uvicorn
 
+# API clients and utilities
 groq
 elevenlabs
 python-dotenv
 
-
-speechrecognition
+# Audio processing
+SpeechRecognition
 pydub
