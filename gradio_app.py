@@ -24,7 +24,7 @@ def process_inputs(audio_filepath, image_filepath):
     if image_filepath:
         doctor_response = analyse_image_with_query(query=system_prompt+speech_to_text_output, encoded_image=encode_image(image_filepath), model="meta-llama/llama-4-scout-17b-16e-instruct")
     else:
-        doctor_response = "No image provided for me to analyze"
+        doctor_response = "Hey, please provide me an image to analyze and then try again"
 
     voice_of_doctor = text_to_speech_with_elevenlabs(input_text=doctor_response, output_filepath="final.mp3") 
 
