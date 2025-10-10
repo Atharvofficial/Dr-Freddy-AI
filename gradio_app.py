@@ -141,7 +141,7 @@ iface = gr.Interface(
         gr.Textbox(label="Dr Freddy's Response"),
         gr.Audio("Temp.mp3")
     ],
-    title="DR FREDDY AI",
+    title="👨🏻‍⚕️ DR FREDDY : THE VIRTUAL AI DOCTOR",
     css=custom_css,
     
 )
