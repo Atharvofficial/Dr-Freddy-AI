@@ -88,5 +88,5 @@ The user interface is straightforward and designed for ease of use.
 1.  **Upload Image:** Click the "Upload Image" box to select a relevant medical image from your computer.
 2.  **Record Audio:** Click the "Record from microphone" button to record your voice query. Click "Stop" when you are finished.
 3.  **Submit:** Click the "Submit" button to send your query to Dr. Freddy.
-4.  **Receive Response:** The text response will appear in the "Doctor's Response" box, and the audio will play automatically.
+4.  **Receive Response:** The text response will appear in the Response box, and the audio will play automatically.
 
