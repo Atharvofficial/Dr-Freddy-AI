@@ -38,7 +38,7 @@ custom_css = """
 
 /* --- General App Styling --- */
 body {
-    background-color: #f0f4f8; /* Light blue-gray background */
+    background-color: #d4e7fa; /* Light blue background */
     font-family: 'Inter', sans-serif;
 }
 .gradio-container {
