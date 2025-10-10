@@ -3,8 +3,7 @@ import os
 from brain_setup import encode_image, analyse_image_with_query
 from user_voice import transcribe_with_groq
 from doctor_voice import text_to_speech_with_elevenlabs
-from fastapi import FastAPI
-import uvicorn
+
 
 
 system_prompt="""You have to act as a professional doctor, i know you are not but this is for learning purpose.Your name will be Dr Freddy. 
@@ -144,12 +143,9 @@ iface = gr.Interface(
     ],
     title="DR FREDDY AI",
     css=custom_css,
-    allow_flagging="never"
+    
 )
 
-# VERCEL DEPLOYMENT
-# CREATE A FASTAPI APP
-app = FastAPI()
+iface.launch()
 
-# MOUNT THE GRADIO APP ONTO THE FASTAPI APP
-app = gr.mount_gradio_app(app, iface, path="/")
+
