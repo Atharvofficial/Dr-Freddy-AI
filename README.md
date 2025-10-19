@@ -4,7 +4,7 @@
 
 An AI-powered, multimodal conversational agent designed for preliminary medical interactions. Dr. Freddy understands health concerns through voice and images and responds with both text and a natural-sounding voice.
 
-### **[➡️ Live Project] (https://huggingface.co/spaces/atharvmujumale/Dr-Freddy-AI)**
+### **[➡️ Live Project](https://huggingface.co/spaces/atharvmujumale/Dr-Freddy-AI)**
 ### **[➡️ View the Full Project Report (PDF)](./Report/Atharv_Project_Report_Dr_Freddy.pdf)**
 
 ---
