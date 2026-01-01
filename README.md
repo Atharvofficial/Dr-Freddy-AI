@@ -7,6 +7,12 @@ An AI-powered, multimodal conversational agent designed for preliminary medical 
 ### **[➡️ Live Project](https://huggingface.co/spaces/atharvmujumale/Dr-Freddy-AI)**
 ### **[➡️ View the Full Project Report (PDF)](./Report/Atharv_Project_Report_Dr_Freddy.pdf)**
 
+
+
+https://github.com/user-attachments/assets/08a1deb6-f331-40da-983b-8b9edba80cab
+
+
+
 ---
 
 ## 🌟 Key Features
